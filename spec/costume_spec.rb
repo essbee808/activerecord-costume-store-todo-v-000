@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-
+require_relative '../db/migrate/01_create_students'
 
 describe "Costume" do
 
